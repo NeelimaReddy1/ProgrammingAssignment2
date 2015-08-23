@@ -1,6 +1,7 @@
+## In makeCacheMatrix function, I am performing the following.
 ## Set the value of the matrix
 ## get the value of the matrix
-## set the value of inverse of the matrix
+## set the value of inverse of the matrix, using setinverse()
 ## get the value of inverse of the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
